@@ -1,5 +1,5 @@
 /*
-All rights reserved to Facundo I. Lattandi © 2024.
+All rights reserved to Facundo I. Lattandi © 2025.
 See LICENSE.md file on the source of this repository for details.
 
 Problem: 
